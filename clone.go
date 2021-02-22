@@ -20,7 +20,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	if os.Args[1] == "--help" {
+	if os.Args[1] == "--help " {
 		fmt.Println("Usage:- clone [Source] [Distination]\n")
 		fmt.Println(os.Args[0], "Version 1.0")
 		os.Exit(1)
