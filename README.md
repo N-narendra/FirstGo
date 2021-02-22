@@ -12,4 +12,4 @@ Clone is Small Programe Which use Rsync With Progress bar To Copy file with thie
 
 **go build .**
 
-# A static binary is Compiled and ready to use..!
+ A static binary is Compiled and ready to use..!
